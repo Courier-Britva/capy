@@ -1,0 +1,294 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1738279072276,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "о способах избавления от депрессии/img/photo_2025-01-25_03-15-38.jpg",
+    "о способах избавления от депрессии/part1/1.1. Описание сферы Бернала.md",
+    "о способах избавления от депрессии/part1/1.2. Ввод Хуа Чэна.md",
+    "о способах избавления от депрессии/part1/1.3. Ввод Се Ляня.md",
+    "о способах избавления от депрессии/part1/1.4. Зафиксированы заболевания у животных.md",
+    "о способах избавления от депрессии/part1/1.5.  Обед Хуа Чэна и Се Ляня.md",
+    "о способах избавления от депрессии/part1/1.6. Отсек биологии закрыли на карантин.md",
+    "о способах избавления от депрессии/part2/2.1. Ввод  Пэй Мина.md",
+    "о способах избавления от депрессии/part2/2.2. Монолог Пей Мина.md",
+    "о способах избавления от депрессии/part2/2.3. рефлексия Хуа Чэна.md",
+    "о способах избавления от депрессии/part2/2.4. Раскрытие Хэ Сюаня.md",
+    "о способах избавления от депрессии/part2/2.5. Описание карантина, проверка крови.md",
+    "о способах избавления от депрессии/part2/2.6. Легионелла.md",
+    "о способах избавления от депрессии/part2/2.7. Диалог в столовой с Пей Мином.md",
+    "о способах избавления от депрессии/part2/2.8. Раскрытие Инь Юя.md",
+    "о способах избавления от депрессии/part2/2.9.  вторая волна Легионеллеза.md",
+    "о способах избавления от депрессии/part3/Му Цин отрпавляет Фэнь Синя.md",
+    "о способах избавления от депрессии/part3/раскрытие Фэн Синя.md",
+    "о способах избавления от депрессии/part3/раскрытие Хэ Сюаня..md",
+    "о способах избавления от депрессии/part3/с помощью Жое - Легионелла в воздухе.md",
+    "о способах избавления от депрессии/part3/хочу напуганного Хуа Чэна.md",
+    "о способах избавления от депрессии/part3/Хуа Чэн и Инь Юй не особо и болеют.md",
+    "о способах избавления от депрессии/part3/Хуа Чэн проверяет Жое.md",
+    "о способах избавления от депрессии/main.canvas",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "о способах избавления от депрессии/img/photo_2025-01-25_03-15-38.jpg": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 69645,
+      "exportedPath": "о способах избавления от депрессии/img/photo_2025-01-25_03-15-38.jpg",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.1. Описание сферы Бернала.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 236,
+      "exportedPath": "о способах избавления от депрессии/part1/1.1. Описание сферы Бернала.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.2. Ввод Хуа Чэна.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 204,
+      "exportedPath": "о способах избавления от депрессии/part1/1.2. Ввод Хуа Чэна.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.3. Ввод Се Ляня.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 165,
+      "exportedPath": "о способах избавления от депрессии/part1/1.3. Ввод Се Ляня.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.4. Зафиксированы заболевания у животных.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 193,
+      "exportedPath": "о способах избавления от депрессии/part1/1.4. Зафиксированы заболевания у животных.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.5.  Обед Хуа Чэна и Се Ляня.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 160,
+      "exportedPath": "о способах избавления от депрессии/part1/1.5.  Обед Хуа Чэна и Се Ляня.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part1/1.6. Отсек биологии закрыли на карантин.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 70,
+      "exportedPath": "о способах избавления от депрессии/part1/1.6. Отсек биологии закрыли на карантин.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.1. Ввод  Пэй Мина.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 274,
+      "exportedPath": "о способах избавления от депрессии/part2/2.1. Ввод  Пэй Мина.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.2. Монолог Пей Мина.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 110,
+      "exportedPath": "о способах избавления от депрессии/part2/2.2. Монолог Пей Мина.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.3. рефлексия Хуа Чэна.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 95,
+      "exportedPath": "о способах избавления от депрессии/part2/2.3. рефлексия Хуа Чэна.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.4. Раскрытие Хэ Сюаня.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 133,
+      "exportedPath": "о способах избавления от депрессии/part2/2.4. Раскрытие Хэ Сюаня.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.5. Описание карантина, проверка крови.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 185,
+      "exportedPath": "о способах избавления от депрессии/part2/2.5. Описание карантина, проверка крови.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.6. Легионелла.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 99,
+      "exportedPath": "о способах избавления от депрессии/part2/2.6. Легионелла.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.7. Диалог в столовой с Пей Мином.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 299,
+      "exportedPath": "о способах избавления от депрессии/part2/2.7. Диалог в столовой с Пей Мином.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.8. Раскрытие Инь Юя.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 137,
+      "exportedPath": "о способах избавления от депрессии/part2/2.8. Раскрытие Инь Юя.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part2/2.9.  вторая волна Легионеллеза.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 170,
+      "exportedPath": "о способах избавления от депрессии/part2/2.9.  вторая волна Легионеллеза.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/Му Цин отрпавляет Фэнь Синя.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 111,
+      "exportedPath": "о способах избавления от депрессии/part3/Му Цин отрпавляет Фэнь Синя.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/раскрытие Фэн Синя.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 165,
+      "exportedPath": "о способах избавления от депрессии/part3/раскрытие Фэн Синя.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/раскрытие Хэ Сюаня..md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 191,
+      "exportedPath": "о способах избавления от депрессии/part3/раскрытие Хэ Сюаня..html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/с помощью Жое - Легионелла в воздухе.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 99,
+      "exportedPath": "о способах избавления от депрессии/part3/с помощью Жое - Легионелла в воздухе.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/хочу напуганного Хуа Чэна.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 169,
+      "exportedPath": "о способах избавления от депрессии/part3/хочу напуганного Хуа Чэна.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/Хуа Чэн и Инь Юй не особо и болеют.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 300,
+      "exportedPath": "о способах избавления от депрессии/part3/Хуа Чэн и Инь Юй не особо и болеют.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/part3/Хуа Чэн проверяет Жое.md": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 163,
+      "exportedPath": "о способах избавления от депрессии/part3/Хуа Чэн проверяет Жое.html",
+      "dependencies": []
+    },
+    "о способах избавления от депрессии/main.canvas": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 7521,
+      "exportedPath": "о способах избавления от депрессии/main.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1738279072276,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
